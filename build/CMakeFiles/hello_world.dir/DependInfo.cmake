@@ -1,0 +1,25 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/jaronov/proc-design-lab1/src/hello.cpp" "CMakeFiles/hello_world.dir/src/hello.cpp.o" "gcc" "CMakeFiles/hello_world.dir/src/hello.cpp.o.d"
+  "/home/jaronov/proc-design-lab1/src/name.cpp" "CMakeFiles/hello_world.dir/src/name.cpp.o" "gcc" "CMakeFiles/hello_world.dir/src/name.cpp.o.d"
+  "" "hello_world" "gcc" "CMakeFiles/hello_world.dir/link.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
