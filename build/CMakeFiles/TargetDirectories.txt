@@ -1,0 +1,3 @@
+/home/jaronov/proc-design-lab1/build/CMakeFiles/hello_world.dir
+/home/jaronov/proc-design-lab1/build/CMakeFiles/edit_cache.dir
+/home/jaronov/proc-design-lab1/build/CMakeFiles/rebuild_cache.dir
